@@ -81,5 +81,52 @@
             "city": "Lima",
             "country": "Perú"
           }
-        ]
+        ],
+        "restaurants": [
+            {
+              "id": 1,
+              "name": "Restaurante A",
+              "address": "Calle San Martín 123",
+              "city": "Lima",
+              "country": "Perú",
+              "phone": "987654321",
+              "cuisine": "Cocina peruana",
+              "capacity": 50,
+              "opening_hours": "09:00 - 22:00"
+            },
+            {
+              "id": 2,
+              "name": "Restaurante B",
+              "address": "Avenida Larco 456",
+              "city": "Lima",
+              "country": "Perú",
+              "phone": "912345678",
+              "cuisine": "Comida italiana",
+              "capacity": 40,
+              "opening_hours": "12:00 - 23:00"
+            },
+            {
+              "id": 3,
+              "name": "Restaurante C",
+              "address": "Jirón Huallaga 789",
+              "city": "Lima",
+              "country": "Perú",
+              "phone": "998877665",
+              "cuisine": "Comida japonesa",
+              "capacity": 30,
+              "opening_hours": "11:30 - 21:30"
+            },
+            {
+              "id": 4,
+              "name": "Restaurante D",
+              "address": "Calle Ayacucho 246",
+              "city": "Lima",
+              "country": "Perú",
+              "phone": "976543210",
+              "cuisine": "Comida mexicana",
+              "capacity": 60,
+              "opening_hours": "10:00 - 22:30"
+            }
+          ]
+
   }

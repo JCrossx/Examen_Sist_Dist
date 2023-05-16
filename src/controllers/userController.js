@@ -1,8 +1,8 @@
 const userService = require("../services/userService")
 
 const getAllUsers = (req,res) =>{
-    const AllUsers = userService.getAllUsers();
-    res.send({ status: 'OK', data: AllUsers});
+    const allUsers = userService.getAllUsers();
+    res.send({ status:'OK', data: allUsers});
 };
 
 const getOneUser = (req,res) =>{
